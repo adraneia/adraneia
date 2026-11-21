@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Maria;Applied+Informatics+graduate;MSc+student+%7C+Systems+%26+Networks;Getting+into+cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Maria;Applied+Informatics+graduate;MSc+student+%7C+Next+Generation+Systems+and+Networks;Getting+into+cybersecurity" alt="Typing SVG" />
 
 <br>
 
@@ -15,12 +15,12 @@
 
 ### About me
 
-I studied Applied Informatics at the University of Macedonia and I'm now doing my MSc in Next Generation Systems and Networks. I'm mostly into **cybersecurity and networking** these days: I finished the Google Cybersecurity Certificate and I'm studying for **CompTIA Security+**. Before that I did a lot of web stuff, and I built a React dashboard for serious games during my internship at SeriousMind.
+I studied Applied Informatics at the University of Macedonia and I'm now doing my MSc in Next Generation Systems and Networks. I'm mostly into **cybersecurity and networking** these days. I finished the Google Cybersecurity Certificate and I'm studying for **CompTIA Security+**. Before that I did a lot of web stuff, and I built a React dashboard for serious games during my internship at SeriousMind.
 
 ```js
 const maria = {
   location: "Thessaloniki, Greece",
-  education: ["BSc Applied Informatics", "MSc Next Generation Systems & Networks (in progress)"],
+  education: ["BSc Applied Informatics", "MSc Next Generation Systems and Networks (in progress)"],
   currentlyLearning: ["CompTIA Security+", "Kali Linux", "Cryptography"],
   interests: ["red team", "penetration testing"],
   languages: { greek: "native", english: "C2", german: "A2" },
@@ -38,13 +38,9 @@ const maria = {
 
 **Security tools**
 
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/tcpdump-555555?style=flat-square" />
-<img src="https://img.shields.io/badge/Suricata-EF7F1A?style=flat-square" />
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/tcpdump-555555?style=flat-square" /> <img src="https://img.shields.io/badge/Suricata-EF7F1A?style=flat-square" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+</p>
 
 ---
 
